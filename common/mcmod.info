@@ -1,0 +1,21 @@
+[
+{
+	"modid": "TYHS PTEM",
+	"name": "TheYoHanSolo's Periodic Table Mod",
+	"description": "We Can Solve This Problem, With Science(And A Fez)",
+	"version": "0.1A",
+	"url": "blah",
+	"updateurl": "",
+	"authorList": [
+	"TheYoHanSolo",
+	"A little help from Pahimar"
+	],
+	"credits": "By TheYoHanSolo",
+	"logofile": "",
+	"screenshots": [
+	],
+	"parent": "",
+	"dependences": [
+	],
+}
+]
